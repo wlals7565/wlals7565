@@ -1,4 +1,4 @@
-### Hi there! 👋. I'm a Back-End Developer using Node.js
+### Hi there! 👋. I want to become a backend developer. I use JavaScript as my primary language and I'm also comfortable with TypeScript. To become a proficient developer, I'm studying many theoretical concepts about computer science.
 
 ### Skills
 #### Flatforms & Languages
@@ -11,6 +11,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Projects
+Team Project: ![Study-Camp](https://github.com/wlals7565/study_camp_db_server2?tab=readme-ov-file)
+Simple CRUD Project: ![CRUDSHOP](https://github.com/wlals7565/CURDSHOP3)
+Design-Pattern Study Projects: ![desin-pattern](https://github.com/wlals7565/design-pattern)
+
 <!--
 **wlals7565/wlals7565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
