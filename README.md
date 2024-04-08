@@ -1,6 +1,8 @@
 # Hi there! 👋
 
-I'm aspiring to become a backend developer proficient in JavaScript and TypeScript. I'm currently studying various theoretical concepts in computer science to enhance my skills.
+I'm aspiring to become a backend developer proficient in JavaScript and TypeScript.
+
+I'm currently studying various theoretical concepts in computer science to enhance my skills.
 
 ## Skills
 ### Platforms & Languages
