@@ -13,9 +13,9 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Projects
-Team Project: ![Study-Camp](https://github.com/wlals7565/study_camp_db_server2?tab=readme-ov-file)
-Simple CRUD Project: ![CRUDSHOP](https://github.com/wlals7565/CURDSHOP3)
-Design-Pattern Study Projects: ![desin-pattern](https://github.com/wlals7565/design-pattern)
+Team Project: [Study-Camp](https://github.com/wlals7565/study_camp_db_server2?tab=readme-ov-file)
+Simple CRUD Project: [CRUDSHOP](https://github.com/wlals7565/CURDSHOP3)
+Design-Pattern Study Projects: [desin-pattern](https://github.com/wlals7565/design-pattern)
 
 <!--
 **wlals7565/wlals7565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
