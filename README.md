@@ -15,11 +15,11 @@ I'm aspiring to become a backend developer proficient in JavaScript and TypeScri
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## Projects
-- **Study-Camp**: A team project aimed at..
+- **Study-Camp**: Study-Camp: This team project aimed at creating a learning-focused metaverse, while utilizing various AWS services for deploying the server and exploring different AWS functionalities.
   - [GitHub Repository](https://github.com/wlals7565/study_camp_db_server2?tab=readme-ov-file)
-- **CRUDSHOP**: A simple CRUD project showcasing...
+- **CRUDSHOP**: Aimed at creating A simple CRUD project and documenting API endpoints using Swagger
   - [GitHub Repository](https://github.com/wlals7565/CURDSHOP3)
-- **Design-Pattern**: Projects dedicated to studying various design patterns...
+- **Design-Pattern**: Aimed at studying various design patterns.
   - [GitHub Repository](https://github.com/wlals7565/design-pattern)
 
 
