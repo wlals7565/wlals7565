@@ -1,4 +1,7 @@
-### Hi there! 👋. I want to become a backend developer. I use JavaScript as my primary language and I'm also comfortable with TypeScript. To become a proficient developer, I'm studying many theoretical concepts about computer science.
+### Hi there! 👋.
+### I want to become a backend developer.
+### I use JavaScript as my primary language and I'm also comfortable with TypeScript.
+### To become a proficient developer, I'm studying many theoretical concepts about computer science.
 
 ### Skills
 #### Flatforms & Languages
