@@ -25,6 +25,8 @@ I'm currently studying various theoretical concepts in computer science to enhan
   - [GitHub Repository](https://github.com/wlals7565/study_camp_db_server2?tab=readme-ov-file)
 - **arewecute**: This team project aims to create an API and a webpage for a pet-sitting matching service, and to enable interaction between the frontend and backend using Axios.
   - [GitHub Repository](https://github.com/wlals7565/arewecute)
+- **threello**: This team project aims to create an API server for a Kanban board service similar to Trello using the NestJS framework.
+  - [GitHub Repository]([https://github.com/wlals7565/arewecute](https://github.com/wlals7565/threello?tab=readme-ov-file))
 - **CRUDSHOP**: Aimed at creating A simple CRUD project and documenting API endpoints using Swagger
   - [GitHub Repository](https://github.com/wlals7565/CURDSHOP3)
 - **Design-Pattern**: Aimed at studying various design patterns.
