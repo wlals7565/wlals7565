@@ -7,7 +7,7 @@ I'm aspiring to become a backend developer proficient in JavaScript and TypeScri
 
 I'm currently studying various theoretical concepts in computer science to enhance my skills.
 
-## Skills
+## 💪Skills
 ### Platforms & Languages
 - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -20,7 +20,10 @@ I'm currently studying various theoretical concepts in computer science to enhan
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## Projects
+## 📚Study Blog
+[Blog Link](https://velog.io/@wjdgns7565/posts)
+
+## 🎯Projects
 - **Study-Camp**: Study-Camp: This team project aimed at creating a learning-focused metaverse, while utilizing various AWS services for deploying the server and exploring different AWS functionalities.
   - [GitHub Repository](https://github.com/wlals7565/study_camp_db_server2?tab=readme-ov-file)
 - **threello**: This team project aims to create an API server for a Kanban board service similar to Trello using the NestJS framework.
