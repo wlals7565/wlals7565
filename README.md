@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=300&section=header&text=JeongHun's%20Profile&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=300&section=header&text=이정훈&fontSize=90)
 
 
 # 안녕하세요! 👋
-안녕하세요. 저는 Javascript FullStack 엔지니어를 꿈꾸고 있는 이정훈이라고 합니다.
-제가 문제를 해결하는 것에 관심이 많은 편인데 이런 성향 탓에 현실의 문제를 컴퓨터를 통해 해결하는 프로그래밍에도 관심을 가지게 되었습니다.
-자료구조나 알고리즘에도 관심이 있어 시간이 나면 문제를 풀고 있습니다.
-다음 레포지토리에 들어가시면 제가 푼 문제들을 확인할 수 있습니다.
+안녕하세요. 저는 Javascript FullStack 엔지니어를 꿈꾸고 있는 이정훈이라고 합니다.<br>
+제가 문제를 해결하는 것에 관심이 많은 편인데 이런 성향 탓에 현실의 문제를 컴퓨터를 통해 해결하는 프로그래밍에도 관심을 가지게 되었습니다.<br>
+자료구조나 알고리즘에도 관심이 있어 시간이 나면 문제를 풀고 있습니다.<br>
+다음 레포지토리에 들어가시면 제가 푼 문제들을 확인할 수 있습니다.<br>
 🔗 [코딩 문제풀이](https://github.com/wlals7565/sAlgorithm)
 
 
@@ -30,8 +30,8 @@
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📰공부 모음
-아래 링크는 제 velog입니다.
-제가 지금껏 프로그래밍을 배우면서 언젠가는 다시 확인할 일이 있다고 생각한 것들을 정리하여 놓았습니다.
+아래 링크는 제 velog입니다.<br>
+제가 지금껏 프로그래밍을 배우면서 언젠가는 다시 확인할 일이 있다고 생각한 것들을 정리하여 놓았습니다.<br>
 [Blog Link](https://velog.io/@wjdgns7565/posts)
 
 ## 📚읽은 책들
