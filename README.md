@@ -68,17 +68,14 @@ Git과 GitHub의 기본 개념, 협업을 위한 실무 활용법을 다룬 책.
 버전 관리의 개념부터 브랜치 전략, 충돌 해결까지 실습을 통해 익힐 수 있음.  
 
 ## 🎯Projects
-- **Study-Camp**: Study-Camp: This team project aimed at creating a learning-focused metaverse, while utilizing various AWS services for deploying the server and exploring different AWS functionalities.
-  - [GitHub Repository](https://github.com/wlals7565/study_camp_db_server2?tab=readme-ov-file)
-- **threello**: This team project aims to create an API server for a Kanban board service similar to Trello using the NestJS framework.
-  - [GitHub Repository](https://github.com/wlals7565/threello?tab=readme-ov-file)
-- **arewecute**: This team project aims to create an API and a webpage for a pet-sitting matching service, and to enable interaction between the frontend and backend using Axios.
-  - [GitHub Repository](https://github.com/wlals7565/arewecute)
-- **CRUDSHOP**: Aimed at creating A simple CRUD project and documenting API endpoints using Swagger
-  - [GitHub Repository](https://github.com/wlals7565/CURDSHOP3)
-- **Design-Pattern**: Aimed at studying various design patterns.
-  - [GitHub Repository](https://github.com/wlals7565/design-pattern)
-
+- **스택오버플로우 클론 코딩 - NestJS**: NestJS를 이용하여 스택오버플로우의 주요 기능을 클론 코딩하였습니다. NestJS에 익숙해지기 위해 진행한 프로젝트입니다.
+  - [NestJS-stackUnderFlow](https://github.com/wlals7565/NestJS-stackUnderFlow)
+    
+- **스택오버플로우 클론 코딩 - React**: React를 이용하여 스택오버플로우의 중요 기능들을 클론 코딩하면서 React에 익숙해지기 위해 진행한 프로젝트 입니다. 
+  - [React-stackUnderFlow](https://github.com/wlals7565/React-stackUnderFlow)
+    
+- **자료구조&알고리즘 문제 풀이**: 프로그래머스와 백준의 문제들을 푼 결과를 저장해 놓은 레포지토리입니다.
+  - [sAlgorithm](https://github.com/wlals7565/sAlgorithm)
 
 <!--
 **wlals7565/wlals7565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
