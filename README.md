@@ -1,12 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=300&section=header&text=이정훈&fontSize=90)
 
 
-# 안녕하세요! 👋
-안녕하세요. 저는 Javascript FullStack 엔지니어를 꿈꾸고 있는 이정훈이라고 합니다.<br>
-제가 문제를 해결하는 것에 관심이 많은 편인데 이런 성향 탓에 현실의 문제를 컴퓨터를 통해 해결하는 프로그래밍에도 관심을 가지게 되었습니다.<br>
-자료구조나 알고리즘에도 관심이 있어 시간이 나면 문제를 풀고 있습니다.<br>
-다음 레포지토리에 들어가시면 제가 푼 문제들을 확인할 수 있습니다.<br>
-🔗 [코딩 문제풀이](https://github.com/wlals7565/sAlgorithm)
+# 👋 안녕하세요, 이정훈입니다!
+저는 JavaScript 기반 Full-stack 엔지니어를 꿈꾸고 있는 개발자입니다. 문제 해결에 큰 관심을 두고 있으며, 이를 통해 현실 세계의 문제를 컴퓨터와 프로그래밍을 이용해 해결하는 데 매력을 느낍니다.<br>
+프로그래밍에서 가장 중요한 것은 효율적이고, 유지보수 가능한 코드 작성이라 생각하며, 이를 위해 꾸준히 자료구조와 알고리즘을 학습하고, 다양한 문제를 풀고 있습니다.<br>
+저는 React와 NestJS를 활용한 웹 애플리케이션 개발에 능숙하며, 앞으로 더 나은 설계를 위해 지속적으로 고민하고 있습니다. 다양한 프로젝트와 학습 과정을 통해 성장하고 있으며, 함께 협업하는 환경에서 더 나은 코드를 만들어가는 것을 즐깁니다.<br>
+
+🌱 제가 푼 알고리즘 문제를 확인하고 싶으신가요?
+🔗 코딩 문제풀이에서 제가 푼 문제들을 확인하실 수 있습니다.
+
+
+
+
+
+
+
+
 
 
 ## 💪기술 스택
@@ -20,7 +29,7 @@
 - ![NESTJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### 🗄️데이터베이스
-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ☁️클라우드
