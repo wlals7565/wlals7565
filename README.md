@@ -76,7 +76,7 @@ NestJS의 핵심 개념과 백엔드 개발 방법론을 배우는 책.
 Git과 GitHub의 기본 개념, 협업을 위한 실무 활용법을 다룬 책.  
 버전 관리의 개념부터 브랜치 전략, 충돌 해결까지 실습을 통해 익힐 수 있음.  
 
-## 🎯Projects
+## 🧑‍💻 Projects
 - **스택오버플로우 클론 코딩 - NestJS**: NestJS를 이용하여 스택오버플로우의 주요 기능을 클론 코딩하였습니다. NestJS에 익숙해지기 위해 진행한 프로젝트입니다.
   - [NestJS-stackUnderFlow](https://github.com/wlals7565/NestJS-stackUnderFlow)
     
@@ -85,3 +85,7 @@ Git과 GitHub의 기본 개념, 협업을 위한 실무 활용법을 다룬 책.
     
 - **자료구조&알고리즘 문제 풀이**: 프로그래머스와 백준의 문제들을 푼 결과를 저장해 놓은 레포지토리입니다.
   - [sAlgorithm](https://github.com/wlals7565/sAlgorithm)
+
+## 🎯 학습 목표
+저는 항상 효율적인 코드 작성과 유지보수성을 중요시합니다. 이를 위해 꾸준히 새로운 기술을 학습하고, 더 나은 코드 작성법을 고민합니다.<br> 
+앞으로 React와 NestJS를 포함한 다양한 기술 스택을 다루며, 계속해서 백엔드와 프론트엔드 양쪽에 능숙한 Full-stack 개발자로 성장할 계획입니다.
